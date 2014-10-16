@@ -1,8 +1,8 @@
 {
     "applications": {
         "CabPool": {
-            "applicationId": "C4Tdp39qRWTfACzKVwFzdMG6BQeeQOQgLtPLXKB3", 
-            "masterKey": "fpHhMLv9c2Zu1RpfHN7iejmZZqn0DLXZj8aciTYh"
+            "applicationId": "Application Id Here", 
+            "masterKey": "Master Key Here"
         }, 
         "_default": {
             "link": "CabPool"
