@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "CabPool": {
+            "applicationId": "C4Tdp39qRWTfACzKVwFzdMG6BQeeQOQgLtPLXKB3", 
+            "masterKey": "fpHhMLv9c2Zu1RpfHN7iejmZZqn0DLXZj8aciTYh"
+        }, 
+        "_default": {
+            "link": "CabPool"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
